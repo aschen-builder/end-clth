@@ -1,0 +1,28 @@
+21:31:49.171 DEBUG Loading AWS Credentials 
+21:31:49.172 INFO  Successfully loaded AWS credentials for region: undefined 
+21:32:55.269 DEBUG Loading AWS Credentials 
+21:32:55.271 INFO  Successfully loaded AWS credentials for region: AKIAI33GAIA2QZPPF2MQ 
+21:33:50.830 DEBUG Loading AWS Credentials 
+21:33:50.832 INFO  Successfully loaded AWS credentials for region: us-east-1 
+21:37:08.353 INFO  Simple Logger started 
+21:37:08.353 DEBUG Logging with following options: 
+21:37:08.353 DEBUG {"errorEventName":"error","logDirectory":"./logs","fileNamePattern":"roll-<DATE>.log","dateFormat":"YYYY.MM.DD","typeName":"RollingFileAppender"} 
+21:37:08.353 DEBUG Loading AWS Credentials 
+21:37:08.354 INFO  Successfully loaded AWS credentials for region: 'us-east-1' 
+21:54:33.799 INFO  Simple Logger started 
+21:54:33.799 DEBUG Logging with following options: 
+21:54:33.799 DEBUG {"errorEventName":"error","logDirectory":"./logs","fileNamePattern":"roll-<DATE>.log","dateFormat":"YYYY.MM.DD","typeName":"RollingFileAppender"} 
+21:54:33.799 DEBUG Loading AWS Credentials 
+21:54:33.800 INFO  Successfully loaded AWS credentials for region: 'us-west-2' 
+21:54:33.800 DEBUG Setting API Versions 
+21:54:33.800 DEBUG Creating AWS EC2 instance 
+21:54:34.121 DEBUG {"KeyFingerprint":"78:a5:df:0e:ea:50:30:ab:79:44:24:b4:b3:36:c2:d5:6a:a4:59:76","KeyMaterial":"-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAq5ODKvAhD3G2PLbUWBdgaEgIUcdFIN9UpRT7/tbwCb0baNj+\n41uRYzZPFtHrJ+D2OWxsLWFVAEKdCzSQ2a4bMgsiBgS8k5Jrbk+v/5Y6dJlzDLBp\nX3vAzKGjFq3xtfWlKXvqoEPiFF3kdBJssI0UAPjAWvd1tV3jrPDGAukGI5R0Zeq9\nAVhtsmriVYa7oA6sQIl3BKgJEaVnDYCq/gARM2pMD0u9sMJMte9kKwrU3Cid1/bw\nkCm9n+jytoyhhemZYEei7T+B/uDvlM3TxLVIKrsBzB9au9ZOS1g/zXciwclh707w\nAHyfoYkWih6a/qJlgRj0w9hOW1eXP49Q+/a5EQIDAQABAoIBAHo4DgucGjDCM6p0\nIjbOECK4jRST+i48aDNgC1GxEjQdvVSmnoqeQ6aEnToINpalrT+ieDyrRL12th+x\nRi2J1F2FiKr43MvSVSyzHw/Vl7ZPSKEVWTpnESOzUFVreu6/GPPADZY0ROt1JrN4\nHGx3UnSOvZcPB442X2Rl7udLzs+wVsbLN6XHlP7WqYrxRuqrkCJvbXgKhEg3xmRN\nrqfYZZ6Z8flGU13yYRdXP+cBrKPJkmMyb71W0BbnFOk0QjMNeaEdEVPEetfkpKBh\nWvUeS8rKQZxSp1L/PsI6n1IfoY7hbxcNuwIJ0pGLAeD/KfJPA+lfMT3ZKkxhd/Qu\n5HevSEECgYEA8cVHqrOrcS0SEPnpde59mzPpbTqn4q8ALzp+Vd6d1DeUb9UvmDER\nk7HiqGVnpvTNLufIQVn6AWdpx2jLgHZUCfzkPotda8O2PmWYB9+my6mSUJMD9L05\nLUhqsVoLMLV5Ab6vx2zCUY1unVhfeaLlkAiw6cBCaKUzNkWOubInr0UCgYEAtayf\n1W3bsS8Ow54xUkMzFTpW6I+WqgXAZx10giVrxZOgP6lLnBOK6Z0buBMaJ7XLZes4\neR808qc6S5FwQlbwiqLaPjB/irPPfBjIMT3RybsOK8e0AAhyyQuQCk/kp2mV/Fco\nEEvuTxGulGpPfQmQn419lyvM899ySgB6uEkyKV0CgYEAugKkbuso/jxE6Ba+zeMd\ndGluMIGuZTNrGusQBBTwrTPN2nTU12z5Lv7vecv7AXLa4jml0tHdDXN46NjxqPZh\nFgYhvRUQXTcIYd1cKMKj25GtZpyVsJhdAz/yBl1WurUEUplZOD+vCXudHSW+3yC7\nKiPlqRIohcaELj853hj5e1kCgYB1Dd6F85yjkwBeReTdbfLR8J7ihPG8ZqxLRA03\ndcj0qmOL4RaYX3cXgmTDu3sUrut4pY/japoA5oKHAhRkigO+L6OSgkkLI0PCX21N\nXNl4sw80Yh22D7t1kf+ixUs8GqnKxpVHusS3KVtkwQKqO6l1RALxjgUl9Ih86cYo\nSvEI+QKBgBdayVM2W+9VLo+wti1v9gh8dlnxmf1XSSsSB/jY2svRhLpv2yfc1Xy4\naFo4AinooAZmHhw4jwSIyNNSdXurxUSJdEwrLj4t7esbNuPfdSZhEYyrZ6B7+Jxa\nY33nYrawQe3rN0xxmwpoaGEhrYFfeONtJW+nC2yeShxfBtom3qb+\n-----END RSA PRIVATE KEY-----","KeyName":"test-key","KeyPairId":"key-012265ae462aa7db0","Tags":[]} 
+21:55:19.112 INFO  Simple Logger started 
+21:55:19.112 DEBUG Logging with following options: 
+21:55:19.112 DEBUG {"errorEventName":"error","logDirectory":"./logs","fileNamePattern":"roll-<DATE>.log","dateFormat":"YYYY.MM.DD","typeName":"RollingFileAppender"} 
+21:55:19.112 DEBUG Loading AWS Credentials 
+21:55:19.113 INFO  Successfully loaded AWS credentials for region: 'us-west-2' 
+21:55:19.113 DEBUG Setting API Versions 
+21:55:19.113 DEBUG Creating AWS EC2 instance 
+21:55:19.462 DEBUG deleted keypair 
+21:55:19.484 DEBUG {"KeyFingerprint":"0f:73:c1:26:7f:c2:0d:eb:71:66:87:2f:5b:07:fe:cd:74:65:f7:a4","KeyMaterial":"-----BEGIN RSA PRIVATE KEY-----\nMIIEogIBAAKCAQEAio9ugIHI4dpkqGgzhrgZ+v/1X2QD/0hEmXdkciDdPRtVr/Zw\n8Tcgkcj0ZxPMe2bfh9Z09TGDqDgdamViOeFunmkacoEx+x4jC5W4wjCpjWMjTad+\nT48u6KZLjxf2TBFA3XaHGKuMY2ONMFNoIDDLifmvkuzhp4xhXgQlIy0tqxysNSMI\nKmwQUHBmGOMMVX8dwHpLEb6yvTUAppoD/vyybCwCLCnEfKvQkDcBbtoJron/4gxB\neCGTS75JXIp6MNbLImJwerbtJDWxXPXpuwSe7PoU6DsBz2K3OIv8aOHiIYtXAmlY\njg8zXGqy1dzuw7mOVjvTCF/q+Kc1unMdTaLpXQIDAQABAoIBAF+dKnuzE5QGyH8N\nqMDGOediyUfSFJAMpongQYgf9Ys9WZvbS4Sorejr6vtWRjzBeG6cJoksadWjI2lQ\nHMAkN9lIXd+2F29aFITiBGS8f8P5LVtgwWDVRWF1n55WwrcrEL/CEueLOY08HSnD\n5I6SHWJQ0j9pBy4/SNE/uwDTJDh2xDLHOtaCXjxRvGB7DX6oD/1B0wYIu37BFF4c\n9XiSbCiTkwOTjM6hRADeTHWIu7hooIxTFBxhdyH25QQqVk7VhNYS+Vy6SoLCsfat\nshBpCfmUC0jYjzlW9QDnQe8SG5rfF40Lm5+F0f7ufFFpFhBTBB8iTVQoMWMteOet\npuJPg2ECgYEAycFZX2Zs1QqLgOo0cwOVWwyEXppvA4zoENT7rz4duraOGz0WmdnZ\nMRBJz31hAT543v8jO6DYGjMgyH3wYETBDhsqJTV4ia3gRvpa4ftCj/FLYzizlKG8\nem9UxIpmOh3Mg+PYiH3aQ+A76ff6SLXA3s0ztPowxUadl+BV66nXKmMCgYEAr9Bs\nP5Rq5OAXkOSkpcOMes3xwX2hR83qA+KMPeXqTrtHbm74Q8HattrkeFc+4QhiI57q\neDC9bgbrciJl9qNVnZ/4N8ygknxIKlfri0T4kamuZRRy9Pq2mE8lim8xdpRq/Lap\nlIpJ8H/wUTj4NSY9Crp+G008YnMkZxKMVUemCT8CgYBvwvuPLV38ZesBbru/Oqzx\n0u1Auqvke5nSOSly2iX92ELANAbhExyNYUiB+CJUXhb28L7DuUX8vXXbmmgd6/hF\nqCaglg4/tmIW73iI1nb45eGtBSv1meKesC108nXOm9M+/Ghms9DE6OJHqWasAILm\n6SVLi4yYu5VxHIR8F4lpoQKBgG9hvGJfNYVATs21fHWjuCjItgMeAwIJetrxOGWy\ndclhLjTRSqkqc9RqQlnW8/f+pqXodKSmRCwjaCALmMsy2PeeM9Ot6IBFCjcBMjEu\nBcfKVrikxttaxjkh0yeroAt+pXTqh+6Z2ZPqiaX7UIvjaMKWOXQ0by/zwDkocA1K\n8e5jAoGAednHwItECt0HUOaltjN8afMXlf6Z1k2UnixR9M/GbzpXMF7oz0si6lzz\nw6dLqCHKjWIVD2kfHln28qeDgIvdrlwecPEbCJo0AifmZSpukUyxosBLXsnsePEe\n4E5iTR7KwOaXbPAighw/2wXfwd8xPEwFri3zgu2JN5JevvK1Gss=\n-----END RSA PRIVATE KEY-----","KeyName":"test-key","KeyPairId":"key-07142301b22c6532c","Tags":[]} 
